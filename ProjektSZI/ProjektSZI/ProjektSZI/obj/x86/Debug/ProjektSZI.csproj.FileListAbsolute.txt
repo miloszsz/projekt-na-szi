@@ -1,0 +1,18 @@
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
