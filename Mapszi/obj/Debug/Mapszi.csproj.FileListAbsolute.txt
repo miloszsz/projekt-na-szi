@@ -1,0 +1,6 @@
+c:\users\peter\documents\visual studio 2015\Projects\Mapszi\bin\Debug\Mapszi.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\Mapszi\bin\Debug\Mapszi.exe
+c:\users\peter\documents\visual studio 2015\Projects\Mapszi\bin\Debug\Mapszi.pdb
+c:\users\peter\documents\visual studio 2015\Projects\Mapszi\obj\Debug\Mapszi.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2015\Projects\Mapszi\obj\Debug\Mapszi.exe
+c:\users\peter\documents\visual studio 2015\Projects\Mapszi\obj\Debug\Mapszi.pdb

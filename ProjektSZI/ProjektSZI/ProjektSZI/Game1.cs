@@ -18,6 +18,8 @@ namespace ProjektSZI
         SpriteBatch spriteBatch;
         Level level1 = new Level(); //klasa z plansz¹
         Player player = new Player(); //klasa z graczem
+        Texture2D side;
+        Texture2D placeA, placeB, placeC, placeD, placeE, placeF;
 
         public Game1() //w³aœciwoœci okna
         {
@@ -36,7 +38,15 @@ namespace ProjektSZI
 
         protected override void LoadContent()
         {
+
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            side = Content.Load<Texture2D>("GFX/side");
+            placeA = Content.Load<Texture2D>("GFX/placeA");
+            placeB = Content.Load<Texture2D>("GFX/placeB");
+            placeC = Content.Load<Texture2D>("GFX/placeC");
+            placeD = Content.Load<Texture2D>("GFX/placeD");
+            placeE = Content.Load<Texture2D>("GFX/placeE");
+            placeF = Content.Load<Texture2D>("GFX/placeF");
             level1.Load(Content);
             player.Load(Content);
         }
@@ -71,10 +81,43 @@ namespace ProjektSZI
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.DimGray);
             spriteBatch.Begin();
 
             level1.Draw(spriteBatch);
+            spriteBatch.Draw(side, new Rectangle(1025, 0, 200, 700), Color.White);
+
+            if (level1.screenGridSchemeExtra[player.positionX, player.positionY] == 'a')
+            {
+                spriteBatch.Draw(placeA, new Rectangle(1050, 30, 32, 32), Color.White);
+
+            }
+            if (level1.screenGridSchemeExtra[player.positionX, player.positionY] == 'b')
+            {
+                spriteBatch.Draw(placeB, new Rectangle(1050, 30, 32, 32), Color.White);
+
+            }
+            if (level1.screenGridSchemeExtra[player.positionX, player.positionY] == 'c')
+            {
+                spriteBatch.Draw(placeC, new Rectangle(1050, 30, 32, 32), Color.White);
+
+            }
+            if (level1.screenGridSchemeExtra[player.positionX, player.positionY] == 'd')
+            {
+                spriteBatch.Draw(placeD, new Rectangle(1050, 30, 32, 32), Color.White);
+
+            }
+            if (level1.screenGridSchemeExtra[player.positionX, player.positionY] == 'e')
+            {
+                spriteBatch.Draw(placeE, new Rectangle(1050, 30, 32, 32), Color.White);
+
+            }
+            if (level1.screenGridSchemeExtra[player.positionX, player.positionY] == 'f')
+            {
+                spriteBatch.Draw(placeF, new Rectangle(1060, 30, 32, 32), Color.White);
+
+            }
+
 
             spriteBatch.End();
             base.Draw(gameTime);

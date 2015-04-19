@@ -7,12 +7,28 @@ D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\Projekt
 d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
 d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
 d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
-\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb

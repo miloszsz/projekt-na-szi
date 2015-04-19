@@ -20,7 +20,7 @@ namespace ProjektSZI
         public Player() //inicjalizacja pozycji startowych
         {
             positionX = 1;
-            positionY = 1;
+            positionY = 2;
         }
 
         public void Load(ContentManager content)

@@ -2,22 +2,85 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>GFX\wall.png</Source>
-      <Name>GFX\wall</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb</Output>
-      <Time>2015-03-22T21:09:34.0220562+01:00</Time>
-    </Item>
-    <Item>
       <Source>GFX\player.png</Source>
       <Name>GFX\player</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb</Output>
-      <Time>2015-03-22T21:14:32.269115+01:00</Time>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb</Output>
+      <Time>2015-03-22T21:14:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\wall.png</Source>
+      <Name>GFX\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb</Output>
+      <Time>2015-04-12T19:37:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeA.png</Source>
+      <Name>GFX\placeA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb</Output>
+      <Time>2015-04-12T20:07:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeB.png</Source>
+      <Name>GFX\placeB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb</Output>
+      <Time>2015-04-12T20:49:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeC.png</Source>
+      <Name>GFX\placeC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb</Output>
+      <Time>2015-04-12T20:49:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeD.png</Source>
+      <Name>GFX\placeD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb</Output>
+      <Time>2015-04-12T20:49:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeE.png</Source>
+      <Name>GFX\placeE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb</Output>
+      <Time>2015-04-12T20:49:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeF.png</Source>
+      <Name>GFX\placeF</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb</Output>
+      <Time>2015-04-12T20:49:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\side.png</Source>
+      <Name>GFX\side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb</Output>
+      <Time>2015-04-12T22:34:56+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,39 +88,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZIContent\</RootDirectory>
-      <LoggerRootDirectory>d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\</LoggerRootDirectory>
-      <IntermediateDirectory>d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZIContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-03-22T20:20:40.6912796+01:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-08T15:50:09.8739794+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
