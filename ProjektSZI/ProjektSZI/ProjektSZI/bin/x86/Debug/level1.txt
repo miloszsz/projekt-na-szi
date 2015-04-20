@@ -1,22 +1,22 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xx xxxxxxxxxxxxx              xx
-xx xxxxxxxxxxxxx xxxxxxxx xxx xx
-xx        xxxxxx xxxxxxxx xxx xx
-xxxxxxxxx xxxxxx xxxxxxxx     xx
-xxxxxxxxx xxxxxx xxxxxxxx xxxxxx
-xxx    xx xxxxxx xxxxxxxx xxxxxx
-xxx xx xx                    xxx
-xxx xx xxxxxxxxx xxxxxxx xxx xxx
-xxx xx xxxxxxxxx xxxxxxx xxx xxx
-xxx xx       xxx xxxxxxx xxx xxx
-xxx xxxxxxxx xxx         xxx xxx
-xxx xxxxxxxx xxx xxxxxxxxxxx xxx
-xxx xxxx         xxxxxxxxxxx xxx
-xxx xxxx xxxxxxx xxxxxxxxxxx xxx
-xxx      xxxxxxx             xxx
-xxx xxxx xxxxxxx xxxxxxxxxxxxxxx
-xxx              xxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+                                
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+                                
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+                                
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+                                
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+xxxxxxxxxx x x x   xxx xxxxxxxxx
+                                
+                                
+xxxxxxxxxx x x x   xxx xxxxxxxxx

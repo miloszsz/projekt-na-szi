@@ -2,22 +2,85 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>GFX\wall.png</Source>
-      <Name>GFX\wall</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb</Output>
-      <Time>2015-03-22T20:09:34+01:00</Time>
-    </Item>
-    <Item>
       <Source>GFX\player.png</Source>
       <Name>GFX\player</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb</Output>
-      <Time>2015-03-22T20:14:32+01:00</Time>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb</Output>
+      <Time>2015-04-20T15:39:34.3601935+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\wall.png</Source>
+      <Name>GFX\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb</Output>
+      <Time>2015-04-20T15:39:34.3690918+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeA.png</Source>
+      <Name>GFX\placeA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb</Output>
+      <Time>2015-04-20T15:39:34.3366619+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeB.png</Source>
+      <Name>GFX\placeB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb</Output>
+      <Time>2015-04-20T15:39:34.3417773+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeC.png</Source>
+      <Name>GFX\placeC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb</Output>
+      <Time>2015-04-20T15:39:34.3453143+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeD.png</Source>
+      <Name>GFX\placeD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb</Output>
+      <Time>2015-04-20T15:39:34.3490646+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeE.png</Source>
+      <Name>GFX\placeE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb</Output>
+      <Time>2015-04-20T15:39:34.3526119+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\placeF.png</Source>
+      <Name>GFX\placeF</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb</Output>
+      <Time>2015-04-20T15:39:34.3565652+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GFX\side.png</Source>
+      <Name>GFX\side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb</Output>
+      <Time>2015-04-20T15:39:34.3647625+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -26,10 +89,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZIContent\</RootDirectory>
-      <LoggerRootDirectory>\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\</LoggerRootDirectory>
-      <IntermediateDirectory>\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>\\files\students\s362686\Desktop\ProjektnaSZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZIContent\</RootDirectory>
+      <LoggerRootDirectory>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\</LoggerRootDirectory>
+      <IntermediateDirectory>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

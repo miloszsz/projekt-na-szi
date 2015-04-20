@@ -1,2 +1,3 @@
 D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
 C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache

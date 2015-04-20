@@ -32,3 +32,20 @@ C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj
 C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
 C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
