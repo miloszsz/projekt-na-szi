@@ -10,3 +10,9 @@ c:\users\peter\documents\visual studio 2015\Projects\Mapszi\obj\Debug\Mapszi.pdb
 \\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\Mapszi\bin\Debug\Mapszi.exe
 \\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\Mapszi\bin\Debug\Mapszi.pdb
 \\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\Mapszi\obj\Debug\Mapszi.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\Mapszi\bin\Debug\Mapszi.exe.config
+C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\Mapszi\obj\Debug\Mapszi.exe
+C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\Mapszi\obj\Debug\Mapszi.pdb
+C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\Mapszi\bin\Debug\Mapszi.exe
+C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\Mapszi\bin\Debug\Mapszi.pdb
+C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\Mapszi\obj\Debug\Mapszi.csprojResolveAssemblyReference.cache

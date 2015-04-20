@@ -50,7 +50,7 @@ namespace Mapszi
                 Console.WriteLine();
             }
 
-            StreamWriter targetMapFile = new StreamWriter("j:/level1_place.txt");
+            StreamWriter targetMapFile = new StreamWriter("../../../ProjektSZI/ProjektSZI/ProjektSZI/bin/x86/Debug/level1_place.txt");
             for (int i = 0; i < 22; i++)
             {
                 for (int j = 0; j < 32; j++)
@@ -92,7 +92,8 @@ namespace Mapszi
                         for (int k = 0; k < 22; k++)
                         {
                             map[k, j] = " ";
-                        } 
+                        }
+                        
                     }
                 }
             }
@@ -108,7 +109,7 @@ namespace Mapszi
                 Console.WriteLine();
             }
             
-            StreamWriter mapFile = new StreamWriter("j:/level1.txt");
+            StreamWriter mapFile = new StreamWriter("../../../ProjektSZI/ProjektSZI/ProjektSZI/bin/x86/Debug/level1.txt");
             for (int i = 0; i < 22; i++)
             {
                 for (int j = 0; j < 32; j++)
