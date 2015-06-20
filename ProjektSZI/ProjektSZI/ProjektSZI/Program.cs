@@ -1,5 +1,4 @@
 using System;
-
 namespace ProjektSZI
 {
 #if WINDOWS || XBOX

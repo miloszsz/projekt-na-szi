@@ -7,5 +7,12 @@ Content\GFX\placeD.xnb
 Content\GFX\placeE.xnb
 Content\GFX\placeF.xnb
 Content\GFX\side.xnb
+Content\GFX\Box.xnb
+Content\GFX\ghost.xnb
+Content\GFX\sideEdited.xnb
+Content\GFX\start.xnb
+Content\GFX\wall2.xnb
+Content\CourierWozek.xnb
+Content\SpriteFont1.xnb
 Content\level1.txt
 Content\level1_place.txt

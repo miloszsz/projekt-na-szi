@@ -15,54 +15,233 @@ D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\Projekt
 D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
 D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
 D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\sideEdited.xnb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\CourierWozek.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\sideEdited.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\CourierWozek.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\SpriteFont1.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\start.xnb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall2.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\sideEdited.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\start.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall2.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\CourierWozek.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\sideEdited.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\start.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall2.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\CourierWozek.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\sideEdited.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\start.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall2.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\CourierWozek.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\player.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeA.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeB.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeC.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeD.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeE.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\placeF.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\side.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\Box.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\ghost.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\sideEdited.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\start.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\GFX\wall2.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\CourierWozek.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\SpriteFont1.xnb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1.txt
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\Content\level1_place.txt
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.exe
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\ProjektSZI.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.dll
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.dll
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\FuzzyFramework.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\bin\x86\Debug\PolyLib.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.csprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.exe
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZI\obj\x86\Debug\ProjektSZI.pdb

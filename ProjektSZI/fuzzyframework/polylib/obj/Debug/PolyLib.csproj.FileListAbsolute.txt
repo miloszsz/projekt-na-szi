@@ -1,0 +1,10 @@
+D:\UHK\2010\Fuzzy Logic in WfMS\FuzzyWfMS\FuzzyFramework\PolyLib\bin\Debug\PolyLib.dll
+D:\UHK\2010\Fuzzy Logic in WfMS\FuzzyWfMS\FuzzyFramework\PolyLib\bin\Debug\PolyLib.pdb
+D:\UHK\2010\Fuzzy Logic in WfMS\FuzzyWfMS\FuzzyFramework\PolyLib\obj\Debug\ResolveAssemblyReference.cache
+D:\UHK\2010\Fuzzy Logic in WfMS\FuzzyWfMS\FuzzyFramework\PolyLib\obj\Debug\PolyLib.dll
+D:\UHK\2010\Fuzzy Logic in WfMS\FuzzyWfMS\FuzzyFramework\PolyLib\obj\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\PolyLib\bin\Debug\PolyLib.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\PolyLib\bin\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\PolyLib\obj\Debug\PolyLib.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\PolyLib\obj\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\PolyLib\obj\Debug\PolyLib.csprojResolveAssemblyReference.cache

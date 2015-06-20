@@ -5,9 +5,11 @@ using System.Text;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Content;
+//using FuzzyLogicLibrary;
 
 namespace ProjektSZI
 {
+
     class Player
     {
 
@@ -17,10 +19,10 @@ namespace ProjektSZI
         public int oldpositionY;
         private Keys keyPressed = Keys.None;
 
-        public Player() //inicjalizacja pozycji startowych
+        public Player(int x, int y) //inicjalizacja pozycji startowych
         {
-            positionX = 1;
-            positionY = 2;
+            positionX = x;
+            positionY = y;
         }
 
         public void Load(ContentManager content)
@@ -34,6 +36,10 @@ namespace ProjektSZI
             oldpositionX = positionX;
             oldpositionY = positionY;
             KeyboardState keyboardState = Keyboard.GetState();
+            if (keyboardState.IsKeyUp(keyPressed))
+            {
+                keyPressed = Keys.None;
+            }
 
             if (keyboardState.IsKeyUp(keyPressed))
             {
@@ -66,7 +72,6 @@ namespace ProjektSZI
                 positionY++;
                 
             }
-
         }
 
         public void InterfaceDraw(SpriteBatch spriteBatch)

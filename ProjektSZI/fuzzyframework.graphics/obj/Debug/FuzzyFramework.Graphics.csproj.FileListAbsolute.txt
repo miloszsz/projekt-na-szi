@@ -1,0 +1,11 @@
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\bin\Debug\FuzzyFramework.Graphics.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\bin\Debug\FuzzyFramework.Graphics.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\bin\Debug\FuzzyFramework.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\bin\Debug\PolyLib.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\bin\Debug\FuzzyFramework.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\bin\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\obj\Debug\FuzzyFramework.Graphics.csprojResolveAssemblyReference.cache
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\obj\Debug\FuzzyFramework.Graphics.Resources.resources
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\obj\Debug\FuzzyFramework.Graphics.csproj.GenerateResource.Cache
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\obj\Debug\FuzzyFramework.Graphics.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework.Graphics\obj\Debug\FuzzyFramework.Graphics.pdb

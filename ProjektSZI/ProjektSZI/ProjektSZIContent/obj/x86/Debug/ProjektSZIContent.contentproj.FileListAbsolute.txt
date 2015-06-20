@@ -1,4 +1,10 @@
 D:\Dokumenty\Programowanie\Projekty\Projekt na SZI\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
-C:\Users\Peter\Downloads\Projekt-na-SZI (1)\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
-\\files\students\s362686\Desktop\Link to zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
-C:\Users\Peter\Dropbox\zajecia\si\projekt-na-szi\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+E:\Dokumenty\SZI\kopia2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\fINAL\v2\v2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\v2.2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\v2.2\projektszi\ProjektSZI\ProjektSZIContent\obj\x86\Debug\ProjektSZIContent.contentprojResolveAssemblyReference.cache

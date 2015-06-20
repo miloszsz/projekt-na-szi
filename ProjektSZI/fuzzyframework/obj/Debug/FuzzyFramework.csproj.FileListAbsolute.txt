@@ -1,0 +1,49 @@
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\bin\Debug\PolyLib.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\bin\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+E:\Dokumenty\SZI\FuzzyFramework_src\FuzzyFramework\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.dll
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.pdb
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+E:\Dokumenty\SZI\kopia2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.pdb
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+d:\Dokumenty\Programowanie\Projekty\Projekt na SZI\v2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.dll
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.pdb
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+C:\Users\Andrzej\Documents\WMI INF\VI Semestr\SZI\v2\v2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.dll
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.pdb
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+C:\Users\Peter\Downloads\v2.2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.dll
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\bin\Debug\PolyLib.pdb
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+C:\Users\Peter\Dropbox\zajecia\si\v2.2\ProjektSZI\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\bin\Debug\FuzzyFramework.dll
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\bin\Debug\FuzzyFramework.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\bin\Debug\PolyLib.dll
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\bin\Debug\PolyLib.pdb
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\obj\Debug\FuzzyFramework.csprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\obj\Debug\FuzzyFramework.dll
+\\files\students\s362686\Desktop\v2.2\projektszi\FuzzyFramework\obj\Debug\FuzzyFramework.pdb
