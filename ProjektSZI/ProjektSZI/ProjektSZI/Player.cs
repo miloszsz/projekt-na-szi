@@ -13,16 +13,16 @@ namespace ProjektSZI
     class Player
     {
 
-        public int positionX;
-        public int positionY;
+        internal int positionX;
+        internal int positionY;
         public int oldpositionX;
         public int oldpositionY;
         private Keys keyPressed = Keys.None;
 
-        public Player(int x, int y) //inicjalizacja pozycji startowych
+        public Player(int positionX, int positionY) //inicjalizacja pozycji startowych
         {
-            positionX = x;
-            positionY = y;
+            this.positionX = positionX;
+            this.positionY = positionY;
         }
 
         public void Load(ContentManager content)
